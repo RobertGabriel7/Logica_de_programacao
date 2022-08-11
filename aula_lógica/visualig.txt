@@ -1,0 +1,13 @@
+Algoritmo "Controle de fluxo"
+Var
+  carro: inteiro
+Inicio
+escreval("Digite nome de um carro:")
+leia(carro)
+escolha carro
+    caso "1"
+        escreval("Um carro incrivel, e muito legal")
+    caso "2"
+        escreval("Um carro bem rapido e caro")
+fimescolha
+Fimalgoritmo
